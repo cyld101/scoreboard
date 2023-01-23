@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: #39393A;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    color: #E6E6E6;
+}
+    
+#hmscore-el {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #297373;
+    color: #E9D758;
+    
+    
+    
+}
+#guscore-el {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #297373;
+    color: #E9D758;
+}
